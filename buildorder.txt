@@ -1,0 +1,9 @@
+ros-noetic-moveit-ros-visualization
+ros-noetic-moveit-commander
+ros-noetic-moveit-planners-chomp
+ros-noetic-moveit-setup-assistant
+ros-noetic-pilz-industrial-motion-planner-testutils
+ros-noetic-moveit-ros
+ros-noetic-pilz-industrial-motion-planner
+ros-noetic-moveit-planners
+ros-noetic-moveit
